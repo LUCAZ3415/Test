@@ -1,4 +1,5 @@
 #include <stdio.h>
 int main(){
-    return 0;
+    printf("wrcbicb");
+        return 0;
 }
